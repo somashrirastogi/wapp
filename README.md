@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-![Screenshot](Screenshot (349).png)
+![Screenshot](s.png)
 Open Project directory and type:-
 ### `npm install`
 
